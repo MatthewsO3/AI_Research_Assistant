@@ -7,14 +7,12 @@ This AI-powered assitant searches, summarizes, and stores research findings.
 ## 🎯 What Does This Thing Do?
 
 Think of it as your overachieving research intern who:
-- 🔍 **Searches the web** for academic papers and research on any topic you throw at it
-- 📚 **Summarizes complex papers** into digestible insights (no PhD required to understand the output)
-- ☁️ **Stores everything on AWS** so you can access your research empire from anywhere
-- 🤖 **Runs autonomously** because who has time to babysit scripts?
+- 🔍 **Searches the web**
+- 📚 **Summarizes complex papers**
+- ☁️ **Stores everything on AWS** 
+- 🤖 **Runs autonomously** 
 
-Perfect for researchers, students, curious minds, or anyone who's tired of drowning in PDFs.
-
-## ✨ Features That'll Make You Smile
+## ✨ Features
 
 - **Completely FREE** - Stays comfortably within AWS free tier limits (because broke researchers are still researchers)
 - **Serverless Architecture** - No servers to maintain, no DevOps nightmares
@@ -22,12 +20,12 @@ Perfect for researchers, students, curious minds, or anyone who's tired of drown
 - **Web Search Integration** - Uses SerpAPI to find the juiciest academic content
 - **Cloud Storage** - All your research findings safely tucked away in S3
 
-## 🚀 Quick Start (5 Minutes to Research Nirvana)
+## 🚀 Quick Start
 
 ### Prerequisites
 
 You'll need:
-- An AWS Account (free tier is perfect)
+- An AWS Account
 - Python 3.11 or higher
 - AWS CLI configured on your machine
 
@@ -121,7 +119,7 @@ Detailed deployment guide coming soon! In the meantime:
 5. Deploy and test
 
 ## Example
+<img width="1715" height="811" alt="Screenshot 2025-10-24 at 12 07 33" src="https://github.com/user-attachments/assets/317ac728-abc2-47ab-b6bb-10fe3765e26a" />
 
-<img width="4" height="2" alt="Screenshot 2025-10-24 at 12 00 19" src="https://github.com/user-attachments/assets/f224385a-2f1f-43dd-933b-a82bae499333" />
 
 
