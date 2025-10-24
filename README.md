@@ -1,8 +1,8 @@
 # 🧠 AI Research Assistant
 
-> **Your personal research sidekick that actually reads papers so you don't have to** *(well, not ALL of them)*
+> **Your personal research assistant**
 
-Ever wished you had a tireless research assistant who could scour the web, summarize academic papers, and organize everything while you grab coffee? Well, now you do! This AI-powered beast searches, summarizes, and stores research findings faster than you can say "peer-reviewed publication."
+This AI-powered assitant searches, summarizes, and stores research findings.
 
 ## 🎯 What Does This Thing Do?
 
@@ -101,7 +101,7 @@ AI_Research_Assistant/
 └── README.md           
 ```
 
-## 💰 Cost Breakdown (aka "How is this FREE?!")
+## 💰 Cost Breakdown
 
 - **AWS Lambda**: 1M requests/month free 
 - **S3 Storage**: 5GB free 
@@ -119,4 +119,8 @@ Detailed deployment guide coming soon! In the meantime:
 3. Set up API Gateway trigger
 4. Configure environment variables
 5. Deploy and test
+
+## 
+<img width="4" height="2" alt="Screenshot 2025-10-24 at 12 00 19" src="https://github.com/user-attachments/assets/f224385a-2f1f-43dd-933b-a82bae499333" />
+
 
