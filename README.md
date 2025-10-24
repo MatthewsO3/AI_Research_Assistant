@@ -120,7 +120,8 @@ Detailed deployment guide coming soon! In the meantime:
 4. Configure environment variables
 5. Deploy and test
 
-## 
+## Example
+
 <img width="4" height="2" alt="Screenshot 2025-10-24 at 12 00 19" src="https://github.com/user-attachments/assets/f224385a-2f1f-43dd-933b-a82bae499333" />
 
 
